@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="tyd_nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK総合
+https://tv-tyd-mirac.booyah.dev/api/channels/GR/27/services/1024/stream/
+#EXTINF:-1 group-title="Tokyo" tvg-id="tyd_nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" ,NHK教育
+https://tv-tyd-mirac.booyah.dev/api/channels/GR/26/services/1032/stream/
+#EXTINF:-1 group-title="Tokyo" tvg-id="tyd_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" ,日本テレビ
+https://tv-tyd-mirac.booyah.dev/api/channels/GR/25/services/1040/stream/
+#EXTINF:-1 group-title="Tokyo" tvg-id="tyd_tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" ,テレビ朝日
+https://tv-tyd-mirac.booyah.dev/api/channels/GR/24/services/1064/stream/
+#EXTINF:-1 group-title="Tokyo" tvg-id="tyd_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" ,ＴＢＳ
+https://tv-tyd-mirac.booyah.dev/api/channels/GR/22/services/1048/stream/
+#EXTINF:-1 group-title="Tokyo" tvg-id="tyd_tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",テレビ東京
+https://tv-tyd-mirac.booyah.dev/api/channels/GR/23/services/1072/stream/
+#EXTINF:-1 group-title="Tokyo" tvg-id="tyd_fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",フジテレビ
+https://tv-tyd-mirac.booyah.dev/api/channels/GR/21/services/1056/stream/
+#EXTINF:-1 group-title="Tokyo" tvg-id="tyd_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TokyoMX 1
+https://tv-tyd-mirac.booyah.dev/api/channels/GR/20/services/23608/stream
+#EXTINF:-1 group-title="Tokyo" tvg-id="tyd_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TokyoMX 2
+https://tv-tyd-mirac.booyah.dev/api/channels/GR/20/services/23610/stream
