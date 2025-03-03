@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="tyd_nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK総合(みぞハウス実験)
+https://hls-test.booyah.dev/hls/aiueo_hi/index.m3u8
